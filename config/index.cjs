@@ -43,7 +43,6 @@ const USER_CONFIG = {
         // 结婚纪念日
         { keyword: 'know_day', date: '2017-09-01' },
       ],
-    },
   ],
 
 
